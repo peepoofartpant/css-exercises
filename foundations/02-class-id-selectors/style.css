@@ -6,11 +6,11 @@
     color:#0414f2;
     font-size: 36px
 }
-.three{
-    font-size: 24px;
-}
+
 #four{
     background-color:#6ae86a;
-    font-size: 24px;
     font-weight: bold;
+}
+.medium-font{
+    font-size: 24px;   
 }
